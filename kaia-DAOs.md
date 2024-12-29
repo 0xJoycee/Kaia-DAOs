@@ -1,6 +1,6 @@
 **Building a Community on Kaia with Decentralized Organizations (DAOs)**
 
-![Enter image alt description](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/8qy_Image_1.png)
+![kaia pic](https://github.com/user-attachments/assets/2ba0fb15-100c-402c-9994-624ba67948fb)
 
 Kaia is rapidly becoming a hub for innovation, collaboration, and community building, and it’s easy to see why. Whether you’re a developer, investor, or someone curious about blockchain technology, Kaia has something to offer. Built for speed, scalability, and real-time transactions, it’s designed to handle millions of users and empower communities through its decentralized framework. But what truly sets Kaia apart is its ability to drive community growth and collaboration through Decentralized Autonomous Organizations (DAOs).
 
@@ -71,7 +71,8 @@ In the Web3 era, DAOs are more than a trend; they are a glimpse into the future 
 
 [https://www.greenfut.com/en](https://www.greenfut.com/en)
 
-![Enter image alt description](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/NHe_Image_2.jpeg)
+![download-_4_](https://github.com/user-attachments/assets/d3b20817-ff25-4c3c-a0b3-2b8b18e8e9f0)
+
 
 GreenFuture DAO is tackling some of the most pressing environmental challenges of our time. Its mission is to fund and execute sustainable projects, such as urban reforestation, renewable energy initiatives, and large-scale pollution clean-ups.
 
@@ -90,7 +91,7 @@ Its flexible contribution model ensures accessibility, allowing members to parti
 
 **[https://www.fwb.help/](https://www.fwb.help/)**** **
 
-![Enter image alt description](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/tXZ_Image_3.png)
+![fwb-2](https://github.com/user-attachments/assets/e4db6192-8eb5-4b08-a0ec-79899c8d2c7b)
 
 Integrating Kaia Network with a crypto club like the one powered by FWB tokens could bring immense value to both platforms, fostering collaboration, expanding reach, and deepening Kaia’s influence within the Web3 community. By leveraging the club’s structure of localized hubs and exclusive access tiers, Kaia could tap into an engaged and forward-thinking audience, positioning itself as a key player in the creator economy.
 
@@ -110,7 +111,8 @@ In essence, a partnership with a crypto club powered by FWB tokens would positio
 
 **[https://pleasr.org/](https://pleasr.org/)**
 
-![Enter image alt description](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/ea4_Image_4.png)
+![Pleasr-dao](https://github.com/user-attachments/assets/722e145c-9bbc-46cc-ad08-0588d01e60e1)
+
 
 This artist and art lover collective works because it redefines how people engage with and invest in art. By focusing on NFT artwork and digital collectibles, the collective taps into the booming digital art market while embracing blockchain technology to ensure transparency, provenance, and true ownership.
 
@@ -146,7 +148,7 @@ Ultimately, this partnership would not only empower Kaia creators but also estab
 
 **[https://www.ukrainedao.love/](https://www.ukrainedao.love/)**
 
-![Enter image alt description](https://d3gf5wsgt7m4.cloudfront.net/FREE_LICENSE/YLB_Image_5.png)
+![uk dao](https://github.com/user-attachments/assets/531bae0d-b8f1-4ba4-8cac-6f75676dfc7b)
 
 Ukraine DAO is a powerful example of how blockchain technology can be used for social impact, combining decentralization, transparency, and community engagement to achieve real-world results. Its success lies in the way it harnesses the global reach of Web3, enabling people from around the world to contribute to a common cause in an efficient and secure manner.
 
